@@ -50,3 +50,4 @@ void xuatnsochan(int n){
 		i++;
 	}
 }
+
